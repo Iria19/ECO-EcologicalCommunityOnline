@@ -1,0 +1,318 @@
+.card.card-body{
+    margin-top: 110px !important;
+    margin-bottom: 15px !important;
+
+}
+.boton_eco{
+    background-color: #009970;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.heroregister{    
+    height: fit-content;
+}
+
+.alert-warning {
+    color: #009970;
+    background-color:honeydew;
+    border-color: honeydew;
+  }
+
+.custom-card{
+    margin-top: 100px;
+}
+.tableBackgroud{
+    background-color: honeydew;
+    width: 80%;
+}
+
+.bx-search, .bx-user-plus,.bx-trash,.bx-pencil,.bx-user-pin { 
+    font-size: 25px;
+}
+
+.bx-search { 
+    margin-left: 5px;
+}
+
+div.col-lg-6.aos-init.aos-animate{
+    background-color: white;
+    width: 80%;
+    flex: auto;
+}
+
+div.alert.alert-warning.m-5{
+    margin-top: 100px !important;
+}
+
+.modal-contenido{
+    background-color:#dae3c4;
+    width:25%;
+    padding: 1rem;
+    margin: 10% auto;
+    position: relative;
+    border-radius: 7px;
+}
+.modal{
+    background-color: rgba(0,0,0,.8);
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;  
+}
+#cerrarimg{
+    margin: -1rem -1rem -1rem auto;
+    cursor: pointer;
+    margin-left: 150px;
+}
+#btncerrarmodal{
+      margin-top: 12px;
+}
+
+#avisomodal{
+    margin-bottom: 10px;
+}
+
+.tituloflex{
+    display: flex;
+
+}
+h1.usuarionombrecolor{
+    color: #198754!important;
+    margin-left: 10px !important;
+
+}
+@media (max-width: 768px){
+.tituloflex {
+    font-size: 32px;
+    line-height: 36px;
+}
+}
+@media (max-width: 768px){
+    #hero {
+        height: auto !important;
+    }
+}
+
+.individual{
+    width: 35%;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+.conjunto{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+
+
+
+
+.grupofotoproy:hover,.actfoto:hover  {
+    color: #009970;
+    background: #fff;
+}
+
+.grupofotoproy:hover .icon,.actfoto:hover .icon {
+    color: #009970;
+    background: #fff;
+}
+.grupofotoproy,.actfoto {
+    margin: 0 auto;
+    width: 64px;
+    height: 64px;
+    border-radius: 50px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    transition: ease-in-out 0.3s;
+    color: #fff;
+}
+
+.grupofoto:hover,.filefoto:hover,.actividadfoto:hover  {
+    color: #fff;
+    background: #009970;
+}
+
+.grupofoto:hover .icon,.filefoto:hover .icon,.actividadfoto:hover .icoc {
+    color: #fff;
+    background: #009970;
+}
+.grupofoto,.filefoto,.actividadfoto {
+    margin: 0 auto;
+    width: 64px;
+    height: 64px;
+    border-radius: 50px;
+    border: 1px solid #009970;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    transition: ease-in-out 0.3s;
+    color: #009970;
+}
+
+
+.proyengrupo:hover  {
+    color: #fff;
+    background: #009970;
+}
+
+.proyengrupo:hover .icon {
+    color: #fff;
+    background: #009970;
+}
+.proyengrupo {
+    margin: 0 auto;
+    width: 32px;
+    height: 32px;
+    border-radius: 25px;
+    border: 1px solid #009970;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+    transition: ease-in-out 0.3s;
+    color: #009970;
+}
+
+.actengrupo:hover  {
+    color: #fff;
+    background: #009970;
+}
+
+
+
+.bx-group:before,.bxl-dribbble:before{
+    font-size: 35px !important;
+}
+
+.grupomar,.usuariosregistrados{
+    margin-left: 40px;
+}
+
+.grupomarti,.usuariosregistrados{
+    font-size: 30px !important;
+}
+
+.grupomarp{
+    font-size:20px !important;
+}
+
+.datosdescripciongrupo{
+    min-height: 100px;
+    max-height: 100px;
+    overflow: hidden;
+}
+.containergrupo{
+    margin-left: 20%;
+}
+
+.bx-user-plus,.bx-search, .bx-plus-circle,.bx-group,.bx-file,.bxl-dribbble{
+    font-size: 20px !important;
+}
+
+div.member.aos-init.aos-animate{
+    margin-bottom: 50px !important;
+}
+
+.fondoverdebotones{
+    background-color: #009970 !important;
+}
+.herosinmargin.container{
+
+     padding-top: none !important;
+}
+.grupocurrent{
+    margin-left:20%;
+}
+.contenidogrupoproyecto{
+    margin:20%;
+}
+.botonesgrupoproyecto{
+    display: flex;
+}
+
+.currentgroupgrupo{
+    height: fit-content;
+}
+.botonescurrentgr{
+    margin: 5px;
+}
+a.more-btn.botonescurrentgr{
+    padding: 4px 15px 5px 15px !important;
+}
+.joinear{
+    display: flex;
+
+    flex-flow: row;
+}
+.titulocurrentt{
+    display: flex;    
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.titulocurrentta{
+    display: flex;
+}
+.currentarg{
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+.currentactivitycontent{
+    width: 80%;
+}
+
+div.shadow-lg.p-3.mb-5{
+    width: 30%;
+}
+div.content.mensajecurrentdiv,div.content.divdocucontent{
+    margin-right:20%;
+}
+.direcciondocu {
+    color: white;
+}
+
+.colorNoleido{
+    color: white !important;
+    background-color: #198754 !important;
+}
+.colorleido{
+    background-color: white !important;
+}
+.checkmensajeleido{
+    color: white !important;
+}
+.volverbtnmensaje{
+    color: white !important;
+}
+#select_id_proyectodocumentacion{
+    display:none;
+}
+#select_id_actividadesdocumentacion{
+    display: none;
+}
+.bxs-message-alt-detail{
+    color:#198754 !important;
+}
+.trashmessage{
+    color:white !important;
+}
+.trashmessageleido{
+    color:#198754 !important;
+
+}
+.avisomensajeadmin{
+    font-size: 5px;
+}
+.currentactividadcurrent{
+    margin-right: 20% !important;
+}

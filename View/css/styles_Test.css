@@ -1,0 +1,34 @@
+.testth{
+    background-color: #009970 !important;
+
+}
+
+.table-success {
+    --bs-table-bg: #dae3c4;
+}
+
+.enumtest{
+    display: flex  !important;
+}
+p.Detest{
+    margin-right: 7px;
+}
+
+p.testhay{
+    margin-right: 7px;
+    margin-left: 7px;
+
+}
+
+p.testfallidos{
+    margin-left: 7px;
+
+}
+table{
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+.tablatest{
+    font-size: 30 !important;
+
+}
